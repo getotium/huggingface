@@ -40,7 +40,7 @@ c := huggingface.New(
 
 ## Provenance
 
-Extracted from [Otium](https://getotium.com), where it powers model discovery for the inference
+Extracted from [Otium](https://getotium.ai), where it powers model discovery for the inference
 catalog. Kept deliberately generic (Hub API only — no VRAM math or catalog mapping), so it's a
 clean, reusable primitive.
 
